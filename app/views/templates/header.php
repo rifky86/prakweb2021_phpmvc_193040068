@@ -23,8 +23,11 @@
                 <li class="nav-item">
                 <a class="nav-link" href="<?= BASEURL;?>/about">About Me</a>
                 </li>
+                <li class="nav-item">
+                <a class="nav-link" href="<?= BASEURL;?>/mahasiswa">mahasiswa</a>
                 </li>
                 </ul>
+                
             </div>
              </div>
     </nav> 
